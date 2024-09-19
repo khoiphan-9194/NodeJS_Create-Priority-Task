@@ -4,7 +4,6 @@ const Component = require('../lib/Component.js');
 
 describe('Component', () => {
 
-  
     // describe('invalid', () => {
     //   it('should return false for empty password', () => {
     //     const str = '';
